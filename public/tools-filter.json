@@ -1,1 +1,3 @@
-{}
+{
+  "excludeToolsFilterRegex": "^/(dns-propagation-tester|dns-tester|docker-image-downloader|html-to-pdf|https-tester|multi-link-downloader|ping|short-urls-expander|tcp-udp-port-tester|gif-to-mp4)$"
+}
